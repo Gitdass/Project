@@ -1,0 +1,7 @@
+D:\Csharp\Dass\OSL\OSl3\OSl3\bin\Debug\OSl3.exe.config
+D:\Csharp\Dass\OSL\OSl3\OSl3\bin\Debug\OSl3.exe
+D:\Csharp\Dass\OSL\OSl3\OSl3\bin\Debug\OSl3.pdb
+D:\Csharp\Dass\OSL\OSl3\OSl3\obj\Debug\OSl3.csproj.AssemblyReference.cache
+D:\Csharp\Dass\OSL\OSl3\OSl3\obj\Debug\OSl3.csproj.CoreCompileInputs.cache
+D:\Csharp\Dass\OSL\OSl3\OSl3\obj\Debug\OSl3.exe
+D:\Csharp\Dass\OSL\OSl3\OSl3\obj\Debug\OSl3.pdb
