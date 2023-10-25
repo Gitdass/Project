@@ -1,0 +1,14 @@
+Vijay,10A
+Raj,9A
+Bala,11C
+Antony,8B
+Das,12A
+Jegan,8C
+Kamal,10A
+Balu,11B
+Viji,10C
+Venki,12C
+Vinu,7C
+Raja,7A
+Ramesh,11A
+Suresh,8A
