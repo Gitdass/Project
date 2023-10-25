@@ -60,7 +60,7 @@ namespace Osl2
                 }
                 else
                 {
-                    Console.WriteLine("File not found: studdata.txt");
+                    Console.WriteLine("File not found: student.txt");
                 }
             }
             catch (Exception ex)
